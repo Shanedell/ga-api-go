@@ -1,0 +1,15 @@
+[
+    {"Week": "11/13/17", "UserName":"Jeff_Bezoz", "Monday": "7am-4pm", "Tuesday": "1pm-10pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"Steve_Jobs", "Monday": "1pm-10pm", "Tuesday": "7am-4pm", "Wednesday": "1pm-10pm", "Thursday": "7am-4pm", "Friday": "1pm-10pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"Steve_Wozniac", "Monday": "7am-4pm", "Tuesday": "1pm-10pm", "Wednesday": "1pm-10pm", "Thursday": "7am-4pm", "Friday": "1pm-10pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"James_Pepper", "Monday": "1pm-10pm", "Tuesday": "7am-4pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"Sally_Salt", "Monday": "7am-4pm", "Tuesday": "7am-4pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"Sheldon_Cooper", "Monday": "1pm-10pm", "Tuesday": "1pm-10pm", "Wednesday": "1pm-10pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/13/17", "UserName":"Shane_Dell", "Monday": "7am-4pm", "Tuesday": "7am-4pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "1pm-10pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeGuy_NamedJosh", "Monday": "7am-4pm", "Tuesday": "7am-4pm", "Wednesday": "7am-4pm", "Thursday": "7am-4pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeGuy_NamedDave", "Monday": "1pm-10pm", "Tuesday": "1pm-10pm", "Wednesday": "1pm-10pm", "Thursday": "1pm-10pm", "Friday": "1pm-10pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeLady_NameKaren", "Monday": "7am-4pm", "Tuesday": "1pm-10pm", "Wednesday": "1pm-10pm", "Thursday": "1pm-10pm", "Friday": "1pm-10pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeLady_NamedGwen", "Monday": "7am-4pm", "Tuesday": "7am-4pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeGuy_NamedStew", "Monday": "7am-4pm", "Tuesday": "1pm-10pm", "Wednesday": "7am-4pm", "Thursday": "1pm-10pm", "Friday": "7am-4pm", "Id": "", "Status": "" },
+    {"Week": "11/11/11", "UserName":"SomeLady_NamedAnne", "Monday": "1pm-10pm", "Tuesday": "7am-4pm", "Wednesday": "1pm-10pm", "Thursday": "7am-4pm", "Friday": "1pm-10pm", "Id": "", "Status": "" }
+]
